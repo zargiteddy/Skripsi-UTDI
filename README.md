@@ -8,17 +8,18 @@ Jumlah data yang digunakan sebanyak 4000 data yang diambil selama bulan Maret da
 
 Penelitian ini juga menghasilkan sebuah aplikasi web yang memiliki model machine learning Linear SVM di dalam backend yang dapat mengklasifikasikan teks yang dimasukkan oleh pengguna ke dalam kelas positif, netral, atau negatif.
 
-### Tampilan sekilas web app
-Halaman beranda:
+# Tampilan sekilas web app
+
+## Halaman beranda:
 ![image](https://github.com/zargiteddy/Skripsi-UTDI/assets/72479466/e61aadbd-5864-47fe-8e8d-c7778555c0e7)
 
-Input teks dengan hasil klasifikasi negatif:
+## Input teks dengan hasil klasifikasi negatif:
 ![image](https://github.com/zargiteddy/Skripsi-UTDI/assets/72479466/49de1d0a-8720-41e7-962f-4e205a740f16)
 
-Input teks dengan hasil klasifikasi netral:
+## Input teks dengan hasil klasifikasi netral:
 ![image](https://github.com/zargiteddy/Skripsi-UTDI/assets/72479466/cf011842-243c-4402-a2c1-0949d228a535)
 
-Input teks dengan hasil klasifikasi positif:
+## Input teks dengan hasil klasifikasi positif:
 ![image](https://github.com/zargiteddy/Skripsi-UTDI/assets/72479466/788a21c4-12e8-4593-85a1-a77a401f6ca4)
 
 
