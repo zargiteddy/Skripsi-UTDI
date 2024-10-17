@@ -1,5 +1,7 @@
 # My Bachelor's Thesis
 
+https://eprints.utdi.ac.id/10057/
+
 Fenomena pernikahan di usia muda banyak terjadi di Indonesia. Pada tahun 2021, Komnas Perempuan mencatat ada 59.709 kasus pernikahan dini yang mendapat dispensasi. Hal itu membuktikan bahwa masih banyak masyarakat Indonesia yang tidak mengetahui atau tidak mengikuti aturan UU No. 1 tahun 1974 yang mengatur tentang umur minimal menikah yaitu 19 tahun. Topik ini pun selalu menjadi perbincangan hangat di Twitter. Ada netizen yang beropini baik, ada yang beropini jelek, dan ada pula yang netral. Hal tersebut dapat dianalisis menggunakan analisis sentimen.
 
 Analisis sentimen dapat digunakan untuk menganalisis pendapat netizen dan mengelompokkannya menjadi tiga kategori yaitu positif, netral, dan negatif. Penelitian ini menggunakan metode Support Vector Machine (SVM) untuk melakukan klasifikasi yang dilakukan dengan garis pembatas (hyperplane) yang memisahkan kelas-kelas yang ada pada kumpulan data netizen Twitter yang memiliki opini tentang nikah muda.
